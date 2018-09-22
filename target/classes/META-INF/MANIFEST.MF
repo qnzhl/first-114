@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: first-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.zgs.cloud20180826
+Build-Jdk: 1.7.0_45
+Built-By: qnzhl
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/first-server
+ /
+
