@@ -1,2 +1,2 @@
 # first-114
-简单的Eureka服务
+简单的Eureka注册服务
